@@ -2,11 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=130&section=header"/>
 </a>
 
-<!-- TÍTULO ANIMADO -->
+<!-- TÍTULO -->
 <p align="center">
-  <a href="https://github.com/Azzi-Vitor/data_science_project">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=650&lines=Previsão+de+Preços+de+Livros" alt="Typing SVG" />
-  </a>
+  <strong style="color: #00FF00; font-size: 32px; font-family: 'Fira Code', monospace;">
+    Previsão de Preços de Livros
+  </strong>
 </p>
 
 <!-- SUBTÍTULO -->
