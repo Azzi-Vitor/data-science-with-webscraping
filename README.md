@@ -4,13 +4,9 @@
 
 <!-- TÍTULO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=WEB+SCRAPING+%2B+MACHINE+LEARNING" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=WEB+SCRAPING+%2B+DATA+SCIENCE" alt="Typing SVG"/>
 </p>
 
-<!-- SUBTÍTULO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=25F700&center=true&vCenter=true&width=700&lines=Previsão+de+Preços+de+Livros+com+Python" alt="Typing SVG"/>
-</p>
 
 <!-- BADGES/SHIELDS -->
 <p align="center">
