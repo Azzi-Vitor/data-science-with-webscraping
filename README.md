@@ -2,18 +2,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=130&section=header"/>
 </a>
 
-<!-- TÍTULO -->
+<!-- TÍTULO COM GIF -->
 <p align="center">
-  <strong style="color: #00FF00; font-size: 32px; font-family: 'Fira Code', monospace;">
-    Previsão de Preços de Livros
-  </strong>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZzV3N2JsdDdxdGZ5M2J2eW1kZzJ6M3J4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" alt="book gif"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=PREVISÃO+DE+PREÇOS;WEB+SCRAPING+%2B+ML" alt="Typing SVG"/>
 </p>
 
 <!-- SUBTÍTULO -->
 <p align="center">
   <a href="https://github.com/Azzi-Vitor/data_science_project">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=900&lines=Web+Scraping+%7C+Machine+Learning+%7C+Python+Automation" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=900&lines=Data+Extraction+%7C+Machine+Learning+%7C+Python+Automation" 
       alt="Typing SVG"
     />
   </a>
